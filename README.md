@@ -1,5 +1,5 @@
 ### ADDAPI
-`https://raw.githubusercontent.com/tgds100/weilaisi/refs/heads/main/ip.txt?token=GHSAT0AAAAAAC3SH3DUWDYITG7FYDTKM6KAZ2UEXAQ`
+`https://raw.githubusercontent.com/tgds100/weilaisi/refs/heads/main/ip.txt`
 
 ### PROXYIP
 `47.89.151.17`
