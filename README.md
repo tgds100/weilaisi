@@ -2,7 +2,8 @@
 `https://raw.githubusercontent.com/tgds100/weilaisi/refs/heads/main/ip.txt?token=GHSAT0AAAAAAC3SH3DUWDYITG7FYDTKM6KAZ2UEXAQ`
 
 ### PROXYIP
-`47.89.151.17（https://www.nslookup.io/domains/bpb.yousef.isegaro.com/dns-records/）`
+`47.89.151.17`
+`在线获取反代IP：https://www.nslookup.io/domains/bpb.yousef.isegaro.com/dns-records/`
 
 ### URL
 `cdn.tide.fm`
