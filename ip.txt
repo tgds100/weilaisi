@@ -1,4 +1,4 @@
-104.26.13.42:443#IPV4-🇭🇰香港
+104.26.13.42:443#默认推荐（🇭🇰香港）
 hk.tgds.eu.org:2096#hk.tgds.eu.org-🇭🇰
 jp.tgds.eu.org:2096#jp.tgds.eu.org-🇯🇵
 us.tgds.eu.org:2096#us.tgds.eu.org-🇺🇸
@@ -8,8 +8,9 @@ eu2.tgds.eu.org:2096#EU2-🇪🇺欧盟
 104.26.12.42:443#🇭🇰香港 02
 172.67.68.204:2053#🇭🇰香港 03
 104.18.36.122:2053#🇭🇰香港 04
-1.1.1.91:443#🇯🇵日本 - 1-(CloudFlare 数据中心)
-1.1.1.75:443#🇯🇵日本 - 2-(CloudFlare 数据中心)
-japan.com:443#🌐japan.com
-brazil.com:443#🌐brazil.com
-paizipai.top:8443#🌐paizipai.top
+1.1.1.91:443#🇯🇵日本1 (CloudFlare 数据中心)
+1.1.1.75:443#🇯🇵日本2 (CloudFlare 数据中心)
+japan.com:2087#🌐japan.com
+brazil.com:2087#🌐brazil.com
+paizipai.top:2083#🌐paizipai.top
+www.tennis-point.de:2083🌐www.tennis-point.de
