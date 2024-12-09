@@ -13,4 +13,4 @@ eu2.tgds.eu.org:2096#EU2-🇪🇺欧盟
 japan.com:2087#🌐japan.com
 brazil.com:2087#🌐brazil.com
 paizipai.top:2083#🌐paizipai.top
-www.tennis-point.de:2083🌐www.tennis-point.de
+www.tennis-point.de:2083#🌐www.tennis-point.de
